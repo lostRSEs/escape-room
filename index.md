@@ -2,9 +2,19 @@
 You are a researcher in the classics department. You have been told you need to meet an "RSE", whatever that is. You are given a name and address to go to. When you arrive at the office you find it completely empty...
 
 ### Room 1: the RSE office
-It is empty of people. There is a *cup of coffee* on the desk. There is an *open laptop* on the desk, with a *newspaper* right next to it. There is a *bookshelf* with a few books on it. 
+
+You arrive at the RSE office a few minutes early, only to find it completely deserted. The team must be out at a meeting, and surely they'll be back soon.
+
+There's a couple of cheap but comfy-looking chairs next to a coatstand near the door, so assuming these are intended for guests you take a seat. This office is in a newer part of the campus, on the other side from your department's main building, so you've had a few minutes' walk to get there.
+
+While you wait you cast your eye around the room: maybe you can figure out what an RSE does by studying their natural environment! Next to your seat there is a desk, obviously well used by its usual occupant.
+
+- There is a *cup of coffee* on the desk. It's still steaming, so its owner can't be far away.
+- There is an *open laptop* on the desk, with a *newspaper* right next to it. The laptop screen is on, but locked, and a password prompt is showing.
+- There is a *bookshelf* with a few books on it. You scan your eyes over the titles on the spines hoping for some insight. For some reason a lot of them are about snakes? Maybe RSEs mostly work with zoologists...
 
 #### Visible items:
+
  - Cup of coffee
  - An open laptop which is locked and asking for a passcode
  - A newspaper
