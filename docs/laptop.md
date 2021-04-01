@@ -1,12 +1,22 @@
 # Laptop
-Open on the laptop, there is a web browser open with a number of tabs.
+
+You having figured out the passcode (who uses such a short password anyway?) you tap it in and the RSE's desktop fades into view. Wherever they are now, they were clearly in the middle of something when they left: there are several applications open, but the only one you really recognise is their web browser so you focus on that.
+
 ![laptop](/ah-software-escape-room/assets/pexels-junior-teixeira-2047905.jpg "Laptop")
 
+The browser has a number of tabs open. You decide not to pry into their email, not yet at least, and it looks like they were planning a holiday in the Lake District. The remaining three tabs seem to go together so you decide to take a look what they were working on in case there are any hints as to where they are.
+
 ## Actions:
-<a href="https://github.com/lostRSEs/wherearemycolleagues">Look at browser tab 1</a>
+
+<details><summary>Look at browser tab 1</summary>
+<a href="https://github.com/lostRSEs/wherearemycolleagues">lostRSEs/wherearemycolleagues: A simple Web API to track your colleagues! Use with caution.</a>
+</details>
 
 <details><summary>Look at browser tab 2</summary>
-This is is some text and a text box asking "I ma erehW?".
+This seems to be a simple notes document. All it says is
+```
+?I ma erehW
+```
 </details>
 
 <a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
