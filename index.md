@@ -19,6 +19,26 @@ It is empty of people. There is a *cup of coffee* on the desk. There is an *open
 The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
 </p>
 </details>
+<details><summary>Look at the newspaper</summary>
+<p>
+It's from last week. Someone has already filled in the crossword
+</p>
+</details>
+<details><summary>Look at the bookshelf</summary>
+<p>
+  - novel: it's old and worn. It looks like a fun read, but you don't have time for this at the moment.
+  - "Design Patterns: Elements of Reusable Object Oriented Software". it looks like the cover was originally white, but as now turned gray. Most of the pages contain scribbled drawings.
+  - "Web APIs for the 20th century": This looks interesting...
+</p>
+</details>
+
+<details><summary>Look at "Web APIs for the 20th century"</summary>
+<p>
+You have a sift through this book, there is a lot of jargon that you don't understand. However you do see that on the first page it mentions something called a Application Programming Interface, "In building applications, an API (application programming interface) simplifies programming by abstracting the underlying implementation and only exposing objects or actions the developer needs.".
+</p>
+</details>
+
+
 <input type="text" id="puzzle-1" name="name"/>
 <input type="button" value="click" onclick="check()"><span id="err"></span>
 
