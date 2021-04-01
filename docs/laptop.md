@@ -117,5 +117,3 @@ function check()
 }
 </script>
 
-<p>Photo by Junior Teixeira from Pexels <a href="https://www.pexels.com/photo/semi-opened-laptop-computer-turned-on-on-table-2047905/">link</a></p>
-
