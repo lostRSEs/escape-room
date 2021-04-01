@@ -108,7 +108,7 @@ function check()
   var a=document.getElementById("puzzle-1");
   if((a.value.toLowerCase()=="cw21")|| (a.value.toLowerCase()=="collaborations workshop 2021"))
   {
-    document.getElementById('err').innerHTML= 'Correct! Congratulations, now go to <a href="https://www.software.ac.uk/cw21</a> to learn more!';
+    document.getElementById('err').innerHTML= 'Correct! Congratulations, now go <a href="https://www.software.ac.uk/cw21>here</a> to learn more!';
   }
   else
   {
