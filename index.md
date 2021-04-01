@@ -1,76 +1,11 @@
-# Intro
-You are a researcher in the classics department. You have been told you need to meet an "RSE", whatever that is. You are given a name and address to go to. When you arrive at the office you find it completely empty...
+You are a researcher in the classics department. 
+As part of your current research project, you have become interested in the life of a woman called Fabrica Collaborare, who lived in Roman Britain.
 
-### Room 1: the RSE office
+There's not much written specifically about Fabrica, but you have seen her name mentioned in several texts from that time.
+You are not looking forward to the task of having to look at lots more texts to find out where Fabrica - and the Collaborare family - are mentioned.
 
-You arrive at the RSE office a few minutes early, only to find it completely deserted. The team must be out at a meeting, and surely they'll be back soon.
+On your way out of the library to get a cup of coffee, you meet your colleague Priya, and tell her about your problem.
+She tells you about a group at the university who might be able to help.
+You haven't heard of the RSE team before: Priya tells you that 'RSE' stands for Research Software Engineering, and that their office is in room 20.21.
 
-There's a couple of cheap but comfy-looking chairs next to a coatstand near the door, so assuming these are intended for guests you take a seat. This office is in a newer part of the campus, on the other side from your department's main building, so you've had a few minutes' walk to get there.
-
-While you wait you cast your eye around the room: maybe you can figure out what an RSE does by studying their natural environment! Next to your seat there is a desk, obviously well used by its usual occupant.
-
-- There is a *cup of coffee* on the desk. It's still steaming, so its owner can't be far away.
-- There is an *open laptop* on the desk, with a *newspaper* right next to it. The laptop screen is on, but locked, and a password prompt is showing.
-- There is a *bookshelf* with a few books on it. You scan your eyes over the titles on the spines hoping for some insight. For some reason a lot of them are about snakes? Maybe RSEs mostly work with zoologists...
-
-## Visible items:
- - Cup of coffee
- - An open laptop which is locked and asking for a passcode
- - A newspaper
- - Bookshelf has books: 
-   - "Design Patterns: Elements of Reusable Object Oriented Software"
-   - A novel: "The Left Hand of Darkness" by Ursula Le Guin
-   - A book: Web APIs for the 20th century
-
-## Actions:
-<details><summary>Look on the underside of the coffee mug</summary>
-<p>
-The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
-</p>
-</details>
-<details><summary>Look at the newspaper</summary>
-<p>
-It's from last week. Someone has already filled in the crossword
-</p>
-</details>
-<details><summary>Look at the bookshelf</summary>
-<ul>
-  <li>novel: it's old and worn. It looks like a fun read, but you don't have time for this at the moment.</li>
-  <li>"Design Patterns: Elements of Reusable Object Oriented Software". it looks like the cover was originally white, but as now turned gray. Most of the pages contain scribbled drawings.</li>
-  <li>"Web APIs for the 20th century": This looks interesting...</li>
-</ul> 
-</details>
-
-<details><summary>Look at "Web APIs for the 20th century"</summary>
-<p>
-You have a sift through this book, there is a lot of jargon that you don't understand. However you do see that on the first page it mentions something called a Application Programming Interface, "In building applications, an API (application programming interface) simplifies programming by abstracting the underlying implementation and only exposing objects or actions the developer needs.".
-</p>
-</details>
-
-## Enter passcode to computer:
-
-<input type="text" id="puzzle-1" name="name"/>
-<input type="button" value="click" onclick="check()">
-<br/>
-
-<span id="err"></span>
-
-<script>
-function check()
-{
-  var a=document.getElementById("puzzle-1");
-  if((a.value=="31"))
-  {
-    document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/page2">next</a> page';
-  }
-  else if(a.value=="3") 
-  {
-    document.getElementById('err').innerHTML= 'Not quite! Try again';
-
-  }
-  else
-  {
-    document.getElementById('err').innerHTML= 'Incorrect passcode';
-  }
-}
-</script>
+<a href="/ah-software-escape-room/office.md"><button>Go to room 20.21</button></a>
