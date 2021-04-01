@@ -21,7 +21,7 @@ This seems to be a simple notes document. All it says is
 
 <details><summary>Look at browser tab 3</summary>
 <a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">HTTP Status Codes Cheat Sheet by kstep</a>
-<details>
+</details>
 
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
