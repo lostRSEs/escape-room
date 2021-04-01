@@ -40,14 +40,20 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Intro
 Puzzle
 
-### Solar System Exploration, 1950s – 1960s
+<input type="text" id="puzzle-1" name="name"/>
+<input type="button" value="click" onclick="check()"><span id="err"></span>
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+<script>
+function check()
+{
+  var a=document.getElementById("puzzle-1");
+  if((a.value=="31"))
+  {
+    document.getElementById('err').innerHTML= 'correct';
+  }
+  else
+  {
+    document.getElementById('err').innerHTML= 'wrong';
+  }
+}
+</script>
