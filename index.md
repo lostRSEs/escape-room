@@ -1,45 +1,24 @@
-## Welcome to GitHub Pages
+## Intro
+You are a researcher in the classics department. You have been told you need to meet an "RSE", whatever that is. You are given a name and address to go to. When you arrive at the office you find it completely empty...
 
-You can use the [editor on GitHub](https://github.com/jezcope/ah-software-escape-room/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Room 1: the RSE office
+It is empty of people. There is a *cup of coffee* on the desk. There is an *open laptop* on the desk, with a *newspaper* right next to it. There is a *bookshelf* with a few books on it. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Visible items:
+ - Cup of coffee
+ - An open laptop which is locked and asking for a passcode
+ - A newspaper
+ - Bookshelf has books: 
+   - "Design Patterns: Elements of Reusable Object Oriented Software"
+   - A novel: "The Left Hand of Darkness" by Ursula Le Guin
+   - A book: Web APIs for the 20th century
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jezcope/ah-software-escape-room/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## Game
-Intro
-Puzzle
-
+#### Actions:
+<details><summary>Look on the underside of the coffee mug</summary>
+<p>
+The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
+</p>
+</details>
 <input type="text" id="puzzle-1" name="name"/>
 <input type="button" value="click" onclick="check()"><span id="err"></span>
 
