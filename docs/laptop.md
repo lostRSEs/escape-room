@@ -1,6 +1,6 @@
 # Laptop
 
-You having figured out the passcode (who uses such a short password anyway?) you tap it in and the RSE's desktop fades into view. Wherever they are now, they were clearly in the middle of something when they left: there are several applications open, but the only one you really recognise is their web browser so you focus on that.
+Having figured out the passcode ([who uses such a short password anyway?](https://explainxkcd.com/wiki/index.php/936:_Password_Strength "Password Strength")) you tap it in and the RSE's desktop fades into view. Wherever they are now, they were clearly in the middle of something when they left: there are several applications open, but the only one you really recognise is their web browser so you focus on that.
 
 ![laptop](/ah-software-escape-room/assets/pexels-junior-teixeira-2047905.jpg "Laptop")
 
@@ -14,12 +14,14 @@ The browser has a number of tabs open. You decide not to pry into their email, n
 
 <details><summary>Look at browser tab 2</summary>
 This seems to be a simple notes document. All it says is
-```
+<pre>
 ?I ma erehW
-```
+</pre>
 </details>
 
-<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
+<details><summary>Look at browser tab 3</summary>
+<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">HTTP Status Codes Cheat Sheet by kstep</a>
+<details>
 
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
