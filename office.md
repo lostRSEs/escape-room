@@ -3,6 +3,8 @@ You are a researcher in the classics department. You have been told you need to 
 
 ### Room 1: the RSE office
 
+![A picture of the office](assets/rse-office.jpg)
+
 You arrive at the RSE office a few minutes early, only to find it completely deserted. The team must be out at a meeting, and surely they'll be back soon.
 
 There's a couple of cheap but comfy-looking chairs next to a coatstand near the door, so assuming these are intended for guests you take a seat. This office is in a newer part of the campus, on the other side from your department's main building, so you've had a few minutes' walk to get there.
