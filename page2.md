@@ -107,7 +107,7 @@ function check()
   }
   else
   {
-    document.getElementById('err').innerHTML= 'Inorrect';
+    document.getElementById('err').innerHTML= 'Incorrect';
   }
 }
 </script>
