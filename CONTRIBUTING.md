@@ -23,8 +23,8 @@ You can help us improve it and get acknowledged for your contributions.
 
 Here are a few ways you can get started with contributing to this program.
 
-1. Help us address one of the [issues currently open in our repository](https://github.com/jezcope/ah-software-escape-room/issues).
-2. [Create a new issue](https://github.com/jezcope/ah-software-escape-room/issues/new) to suggest changes/improvements on our website/program.
+1. Help us address one of the [issues currently open in our repository](https://github.com/lostRSEs/escape-room/issues).
+2. [Create a new issue](https://github.com/lostRSEs/escape-room/issues/new) to suggest changes/improvements on our website/program.
 3. Send a pull request to correct typo, or fill any gap that you see on our website.
 
 ## How can I contribute in "advanced" mode?
