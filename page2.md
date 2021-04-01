@@ -19,13 +19,6 @@ You see there is a Terminal window open with the command:
 </details>
 
 ## Execute list query
-
-curl https://rse-api.my-university.com/rse-api/list
-<br/>
-<input type="button" value="click" onclick="list()">
-
-<span id="list-span"></span>
-
 <script>
 function list()
 {
@@ -34,13 +27,13 @@ function list()
 }
 </script>
 
-## Execute location query
-
-curl https://rse-api.my-university.com/rse-api/location/<input type="text" id="location-text" name="name"/>
-<input type="button" value="click" onclick="locationCheck()">
+curl https://rse-api.my-university.com/rse-api/list
 <br/>
+<input type="button" value="click" onclick="list()">
 
-<span id="location"></span>
+<span id="list-span"></span>
+
+## Execute location query
 
 <script>
 function locationCheck()
@@ -65,13 +58,13 @@ function locationCheck()
 }
 </script>
 
-## Execute conference query
-
-curl https://rse-api.my-university.com/rse-api/conference/<input type="text" id="conference-text" name="name"/>
-<input type="button" value="click" onclick="conferenceCheck()">
+curl https://rse-api.my-university.com/rse-api/location/<input type="text" id="location-text" name="name"/>
+<input type="button" value="click" onclick="locationCheck()">
 <br/>
 
-<span id="conference"></span>
+<span id="location"></span>
+
+## Execute conference query
 
 <script>
 function conferenceCheck()
@@ -87,6 +80,14 @@ function conferenceCheck()
   }
 }
 </script>
+
+curl https://rse-api.my-university.com/rse-api/conference/<input type="text" id="conference-text" name="name"/>
+<input type="button" value="click" onclick="conferenceCheck()">
+<br/>
+
+<span id="conference"></span>
+
+
 
 ## I ma erehW?
 
