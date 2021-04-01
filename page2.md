@@ -2,20 +2,7 @@
 Open on the laptop, there is a web browser open with a number of tabs.
 
 ## Actions:
-<details><summary>Look at browser tab 1</summary>
-<p>
-Going through the browser tabs, you see another web page open which is entitled "Web API for RSE locations".
-</p>
-
-<p>
-It lists the following:
-</p>
-<ul>
-<li>GET /list                 Lists the IDs for all of the RSEs</li>
-<li>GET /location/$id         Get the location of a single RSE</li>
-<li>GET /conference/$conf-id  Get the calendar for a particular RSE</li>
-</ul>
-</details>
+<a href="https://github.com/lostRSEs/wherearemycolleagues">Look at browser tab 1</a>
 
 <details><summary>Look at browser tab 2</summary>
 This is is some text and a text box asking "I ma erehW?".
