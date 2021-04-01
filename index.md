@@ -1,4 +1,4 @@
-## Intro
+# Intro
 You are a researcher in the classics department. You have been told you need to meet an "RSE", whatever that is. You are given a name and address to go to. When you arrive at the office you find it completely empty...
 
 ### Room 1: the RSE office
@@ -13,8 +13,7 @@ While you wait you cast your eye around the room: maybe you can figure out what 
 - There is an *open laptop* on the desk, with a *newspaper* right next to it. The laptop screen is on, but locked, and a password prompt is showing.
 - There is a *bookshelf* with a few books on it. You scan your eyes over the titles on the spines hoping for some insight. For some reason a lot of them are about snakes? Maybe RSEs mostly work with zoologists...
 
-#### Visible items:
-
+## Visible items:
  - Cup of coffee
  - An open laptop which is locked and asking for a passcode
  - A newspaper
@@ -23,7 +22,7 @@ While you wait you cast your eye around the room: maybe you can figure out what 
    - A novel: "The Left Hand of Darkness" by Ursula Le Guin
    - A book: Web APIs for the 20th century
 
-#### Actions:
+## Actions:
 <details><summary>Look on the underside of the coffee mug</summary>
 <p>
 The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
@@ -48,7 +47,7 @@ You have a sift through this book, there is a lot of jargon that you don't under
 </p>
 </details>
 
-#### Enter passcode to computer:
+## Enter passcode to computer:
 
 <input type="text" id="puzzle-1" name="name"/>
 <input type="button" value="click" onclick="check()">
@@ -62,11 +61,16 @@ function check()
   var a=document.getElementById("puzzle-1");
   if((a.value=="31"))
   {
-    document.getElementById('err').innerHTML= 'correct go to the <a href="/ah-software-escape-room/page2">next</a> page';
+    document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/page2">next</a> page';
+  }
+  else if(a.value=="3") 
+  {
+    document.getElementById('err').innerHTML= 'Not quite! Try again';
+
   }
   else
   {
-    document.getElementById('err').innerHTML= 'wrong';
+    document.getElementById('err').innerHTML= 'Incorrect passcode';
   }
 }
 </script>
