@@ -60,7 +60,7 @@ function check()
   var a=document.getElementById("puzzle-1");
   if((a.value=="31"))
   {
-    document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/page2">next</a> page';
+    document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/docs/laptop">next</a> page';
   }
   else if(a.value=="3") 
   {
