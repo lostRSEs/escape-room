@@ -25,7 +25,7 @@ You think you can probably edit this URL to try and find out more info about whe
 function listQ()
 {
   var a=document.getElementById("list-span");
-  document.getElementById('list-span').innerHTML= '200, ["RSE-002", "RSE-443", "321-ESR"]';
+  document.getElementById('list-span').innerHTML= 'HTTP 200, ["RSE-002", "RSE-443", "321-ESR"]';
 }
 </script>
 
@@ -43,19 +43,19 @@ function locationCheck()
   var a=document.getElementById("location-text");
   if((a.value.toLowerCase()=="rse-002"))
   {
-    document.getElementById('location').innerHTML= '200, At home';
+    document.getElementById('location').innerHTML= 'HTTP 200, At home';
   }
   else if((a.value.toLowerCase()=="rse-443"))
   {
-    document.getElementById('location').innerHTML= '200, In maths department';
+    document.getElementById('location').innerHTML= 'HTTP 200, In maths department';
   }
   else if((a.value.toLowerCase()=="321-esr"))
   {
-    document.getElementById('conference').innerHTML= '200, At conference: CONF-003';
+    document.getElementById('conference').innerHTML= 'HTTP 200, At conference: CONF-003';
   }
   else
   {
-    document.getElementById('location').innerHTML= '404, not found';
+    document.getElementById('location').innerHTML= 'HTTP 404, not found';
   }
 }
 </script>
@@ -74,11 +74,11 @@ function conferenceCheck()
   var a=document.getElementById("conference-text");
   if((a.value.toLowerCase()=="conf-003"))
   {
-    document.getElementById('conference').innerHTML= '200, At Collaborations workshop 2021 (CW21)';
+    document.getElementById('conference').innerHTML= 'HTTP 200, At Collaborations workshop 2021 (CW21)';
   }
   else
   {
-    document.getElementById('conference').innerHTML= '404, not found';
+    document.getElementById('conference').innerHTML= 'HTTP 404, not found';
   }
 }
 </script>
