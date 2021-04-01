@@ -13,7 +13,6 @@ It lists the following:
 <ul>
 <li>GET /list                 Lists the IDs for all of the RSEs</li>
 <li>GET /location/$id         Get the location of a single RSE</li>
-<li>GET /calendar/$id         Get the calendar for a particular RSE</li>
 <li>GET /conference/$conf-id  Get the calendar for a particular RSE</li>
 </ul>
 </details>
@@ -33,16 +32,32 @@ You see there is a Terminal window open with the command:
 </code></pre>
 </details>
 
+## Execute list query
+
+curl https://rse-api.my-university.com/rse-api/list
+<input type="button" value="click" onclick="list()">
+<br/>
+
+<span id="list-span"></span>
+
+<script>
+function list()
+{
+  var a=document.getElementById("list-span");
+  document.getElementById('list-span').innerHTML= '200, ["RSE-002", "RSE-443", "321-ESR"]';
+}
+</script>
+
 ## Execute location query
 
 curl https://rse-api.my-university.com/rse-api/location/<input type="text" id="location-text" name="name"/>
-<input type="button" value="click" onclick="check()">
+<input type="button" value="click" onclick="locationCheck()">
 <br/>
 
 <span id="location"></span>
 
 <script>
-function check()
+function locationCheck()
 {
   var a=document.getElementById("location-text");
   if((a.value.toLowerCase()=="rse-002"))
@@ -66,13 +81,13 @@ At conference: CONF-003
 ## Execute conference query
 
 curl https://rse-api.my-university.com/rse-api/conference/<input type="text" id="conference-text" name="name"/>
-<input type="button" value="click" onclick="check()">
+<input type="button" value="click" onclick="conferenceCheck()">
 <br/>
 
 <span id="conference"></span>
 
 <script>
-function check()
+function conferenceCheck()
 {
   var a=document.getElementById("conference-text");
   if((a.value.toLowerCase()=="conf-003"))
