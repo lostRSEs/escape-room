@@ -18,7 +18,7 @@ We hope that playing this game will help RSEs and arts and humanities reseracher
 
 This project began at a hackday run as part of [Software Sustainability Institute's Collaborations Workshop 2021](https://software.ac.uk/cw21).
 
-There is a [proof-of-concept web version of the game now online](https://jezcope.github.io/ah-software-escape-room)! You can [see the source for that website in the `docs` folder](https://github.com/jezcope/ah-software-escape-room/tree/main/docs).
+There is a [proof-of-concept web version of the game now online](https://lostrses.github.io/escape-room/)! You can [see the source for that website in the `docs` folder](https://github.com/jezcope/ah-software-escape-room/tree/main/docs).
 
 ******************************************************************************
 
