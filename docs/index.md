@@ -1,6 +1,6 @@
 ![four books stacked on their sides, pages visible](assets/books.jpg)
 
-You are a researcher in the classics department. 
+You are a researcher in the Classics department. 
 As part of your current research project, you have become interested in the life of a woman called Fabrica Collaborare, who lived in Roman Britain.
 
 There's not much written specifically about Fabrica, but you have seen her name mentioned in several texts from that time.
