@@ -56,7 +56,6 @@ function locationCheck()
     document.getElementById('location').innerHTML= '200, In maths department';
   }
   else if((a.value.toLowerCase()=="321-esr"))
-At conference: CONF-003
   }
   else
   {
