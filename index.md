@@ -8,4 +8,4 @@ On your way out of the library to get a cup of coffee, you meet your colleague P
 She tells you about a group at the university who might be able to help.
 You haven't heard of the RSE team before: Priya tells you that 'RSE' stands for Research Software Engineering, and that their office is in room 20.21.
 
-<a href="/ah-software-escape-room/office.md"><button>Go to room 20.21</button></a>
+<a href="/ah-software-escape-room/office/"><button>Go to room 20.21</button></a>
