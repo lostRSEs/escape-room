@@ -51,7 +51,7 @@ function locationCheck()
   }
   else if((a.value.toLowerCase()=="321-esr"))
   {
-    document.getElementById('conference').innerHTML= 'HTTP 200, At conference: CONF-003';
+    document.getElementById('location').innerHTML= 'HTTP 200, At conference: CONF-003';
   }
   else
   {
