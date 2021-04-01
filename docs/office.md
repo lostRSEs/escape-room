@@ -13,7 +13,7 @@ While you wait you cast your eye around the room: maybe you can figure out what 
 - There is a *bookshelf* with a few books on it. You scan your eyes over the titles on the spines hoping for some insight. For some reason a lot of them are about snakes? Maybe RSEs mostly work with zoologists...
 
 ## Actions:
-<details><summary>Look at the mug of coffee</summary>
+<details><summary>Look at the cup of coffee</summary>
 <p>
 The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
 </p>
