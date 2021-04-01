@@ -1,5 +1,7 @@
 # Escape room: Translating between RSEs and Arts & Humanities Researchers
 
+[![License](https://img.shields.io/github/license/jezcope/ah-software-escape-room)](LICENSE)
+
 This project began at a hackday run as part of [Software Sustainability Institute's Collaborations Workshop 2021](https://software.ac.uk/cw21).
 
 ## Problem
