@@ -16,6 +16,8 @@ You see there is a Terminal window open with the command:
     ["RSE-002", "RSE-443", "321-ESR"]
     $ 
 </code></pre>
+
+You think you can probably edit this URL to try and find out more info about where the RSEs are...
 </details>
 
 ## Execute list query
