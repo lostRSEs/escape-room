@@ -13,7 +13,7 @@ While you wait you cast your eye around the room: maybe you can figure out what 
 - There is a *bookshelf* with a few books on it. You scan your eyes over the titles on the spines hoping for some insight. For some reason a lot of them are about snakes? Maybe RSEs mostly work with zoologists...
 
 ## Actions:
-<details><summary>Look at the mug of coffee</summary>
+<details><summary>Look at the cup of coffee</summary>
 <p>
 The coffee is still warm. There is something written on the bottom of the cup: "Passcode is the number of letters in API"
 </p>
@@ -28,6 +28,7 @@ It's from last week. Someone has already filled in the crossword
   <li>The novel is "The Left Hand of Darkness" by Ursula Le Guin. it's old and worn. It looks like a fun read, but you don't have time for this at the moment.</li>
   <li>"Design Patterns: Elements of Reusable Object Oriented Software". it looks like the cover was originally white, but as now turned gray. Most of the pages contain scribbled drawings.</li>
   <li>"Web APIs for the 20th century": This looks interesting... Maybe I should look at this in more detail.</li>
+  <li>"Python Crash Course": This books seems to have no mention of snakes, false advertising!</li>
 </ul> 
 </details>
 
