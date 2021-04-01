@@ -20,6 +20,9 @@ You see there is a Terminal window open with the command:
 You think you can probably edit this URL to try and find out more info about where the RSEs are...
 </details>
 
+<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
+
+
 ## Execute list query
 <script>
 function listQ()
