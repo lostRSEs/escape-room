@@ -11,7 +11,6 @@ This is is some text and a text box asking "I ma erehW?".
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
 
-
 <pre><code>
     $ curl https://rse-api.my-university.com/rse-api/list
     ["RSE-002", "RSE-443", "321-ESR"]
@@ -99,7 +98,7 @@ function conferenceCheck()
 function check()
 {
   var a=document.getElementById("puzzle-1");
-  if((a.value.toLowerCase()=="cw21")|| (a.value.toLowerCase()=="collaborations workshop 2021")
+  if((a.value.toLowerCase()=="cw21")|| (a.value.toLowerCase()=="collaborations workshop 2021"))
   {
     document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/page3">next</a> page';
   }
