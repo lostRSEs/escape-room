@@ -65,6 +65,10 @@ function check()
   else if(a.value=="3") 
   {
     document.getElementById('err').innerHTML= 'Not quite! Try again';
+  }
+  else if(a.value=="33") 
+  {
+    document.getElementById('err').innerHTML= 'Try it without spaces!';
 
   }
   else
