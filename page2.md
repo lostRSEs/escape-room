@@ -22,8 +22,8 @@ You see there is a Terminal window open with the command:
 ## Execute list query
 
 curl https://rse-api.my-university.com/rse-api/list
-<input type="button" value="click" onclick="list()">
 <br/>
+<input type="button" value="click" onclick="list()">
 
 <span id="list-span"></span>
 
