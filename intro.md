@@ -7,3 +7,4 @@ consuming task to do manually.
 
 On your way back from the library, a fellow researcher tells you about the RSE group...
 
+<a href="/ah-software-escape-room/office.md"><button>Go to RSE office</button></a>
