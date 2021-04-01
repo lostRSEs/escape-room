@@ -29,12 +29,60 @@ You see there is a Terminal window open with the command:
     $ curl https://rse-api.my-university.com/rse-api/list
     ["RSE-002", "RSE-443", "321-ESR"]
     $ 
+</details>
 
- - curl https://rse-api.my-university.com/rse-api/location/RSE-002    : This prints out: "At home"
- - curl https://rse-api.my-university.com/rse-api/location/RSE-443    : This prints out: "At conference: CONF-003"
- - curl https://rse-api.my-university.com/rse-api/location/RSE-231    : This prints out: "At conference: CONF-003"
- - curl https://rse-api.my-university.com/rse-api/conference/CONF-003 : This prints out: "At Collaborations workshop 2021 (CW21)"
+## Execute location query
 
+curl https://rse-api.my-university.com/rse-api/location/<input type="text" id="location-text" name="name"/>
+<input type="button" value="click" onclick="check()">
+<br/>
+
+<span id="location"></span>
+
+<script>
+function check()
+{
+  var a=document.getElementById("location-text");
+  if((a.value.toLowerCase()=="rse-002"))
+  {
+    document.getElementById('err').innerHTML= '200, At home';
+  }
+  else if((a.value.toLowerCase()=="rse-443"))
+  {
+    document.getElementById('err').innerHTML= '200, In maths department';
+  }
+  else if((a.value.toLowerCase()=="321-esr"))
+At conference: CONF-003
+  }
+  else
+  {
+    document.getElementById('err').innerHTML= '404, not found';
+  }
+}
+</script>
+
+## Execute conference query
+
+curl https://rse-api.my-university.com/rse-api/conference/<input type="text" id="conference-text" name="name"/>
+<input type="button" value="click" onclick="check()">
+<br/>
+
+<span id="conference"></span>
+
+<script>
+function check()
+{
+  var a=document.getElementById("conference-text");
+  if((a.value.toLowerCase()=="conf-003"))
+  {
+    document.getElementById('err').innerHTML= '200, At Collaborations workshop 2021 (CW21)';
+  }
+  else
+  {
+    document.getElementById('err').innerHTML= '404, not found';
+  }
+}
+</script>
 
 ## I ma erehW?
 
