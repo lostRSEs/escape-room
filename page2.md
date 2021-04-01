@@ -105,7 +105,7 @@ function check()
   var a=document.getElementById("puzzle-1");
   if((a.value.toLowerCase()=="cw21")|| (a.value.toLowerCase()=="collaborations workshop 2021"))
   {
-    document.getElementById('err').innerHTML= 'Correct go to the <a href="/ah-software-escape-room/page3">next</a> page';
+    document.getElementById('err').innerHTML= 'Correct! Congratulations, now go to <a href="https://www.software.ac.uk/cw21</a> to learn more!';
   }
   else
   {
