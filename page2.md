@@ -26,9 +26,11 @@ This is is some text and a text box asking "I ma erehW?".
 You see there is a Terminal window open with the command:
 
 
+<pre><code>
     $ curl https://rse-api.my-university.com/rse-api/list
     ["RSE-002", "RSE-443", "321-ESR"]
     $ 
+</pre></code>
 </details>
 
 ## Execute location query
