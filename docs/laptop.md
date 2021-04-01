@@ -1,6 +1,6 @@
 # Laptop
 
-You having figured out the passcode (who uses such a short password anyway?) you tap it in and the RSE's desktop fades into view. Wherever they are now, they were clearly in the middle of something when they left: there are several applications open, but the only one you really recognise is their web browser so you focus on that.
+Having figured out the passcode ([who uses such a short password anyway?](https://explainxkcd.com/wiki/index.php/936:_Password_Strength "Password Strength")) you tap it in and the RSE's desktop fades into view. Wherever they are now, they were clearly in the middle of something when they left: there are several applications open, but the only one you really recognise is their web browser so you focus on that.
 
 ![laptop](/ah-software-escape-room/assets/pexels-junior-teixeira-2047905.jpg "Laptop")
 
