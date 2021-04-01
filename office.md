@@ -1,7 +1,4 @@
-# Intro
-You are a researcher in the classics department. You have been told you need to meet an "RSE", whatever that is. You are given a name and address to go to. When you arrive at the office you find it completely empty...
-
-### Room 1: the RSE office
+# Room 1: the RSE office
 
 ![A picture of the office](assets/rse-office.jpg)
 
