@@ -20,7 +20,7 @@ You see there is a Terminal window open with the command:
 
 ## Execute list query
 <script>
-function list()
+function listQ()
 {
   var a=document.getElementById("list-span");
   document.getElementById('list-span').innerHTML= '200, ["RSE-002", "RSE-443", "321-ESR"]';
@@ -29,7 +29,7 @@ function list()
 
 curl https://rse-api.my-university.com/rse-api/list
 <br/>
-<input type="button" value="click" onclick="list()">
+<input type="button" value="click" onclick="listQ()">
 
 <span id="list-span"></span>
 
