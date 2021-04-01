@@ -28,6 +28,7 @@ It's from last week. Someone has already filled in the crossword
   <li>The novel is "The Left Hand of Darkness" by Ursula Le Guin. it's old and worn. It looks like a fun read, but you don't have time for this at the moment.</li>
   <li>"Design Patterns: Elements of Reusable Object Oriented Software". it looks like the cover was originally white, but as now turned gray. Most of the pages contain scribbled drawings.</li>
   <li>"Web APIs for the 20th century": This looks interesting... Maybe I should look at this in more detail.</li>
+  <li>"Python Crash Course": This books seems to have no mention of snakes, false advertising!</li>
 </ul> 
 </details>
 
