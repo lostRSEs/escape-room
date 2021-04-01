@@ -9,6 +9,8 @@ Open on the laptop, there is a web browser open with a number of tabs.
 This is is some text and a text box asking "I ma erehW?".
 </details>
 
+<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
+
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
 
@@ -20,8 +22,6 @@ You see there is a Terminal window open with the command:
 
 You think you can probably edit this URL to try and find out more info about where the RSEs are...
 </details>
-
-<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
 
 ## Execute list query
 <script>
