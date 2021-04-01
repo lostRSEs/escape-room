@@ -41,7 +41,10 @@ You have a sift through this book, there is a lot of jargon that you don't under
 #### Enter passcode to computer:
 
 <input type="text" id="puzzle-1" name="name"/>
-<input type="button" value="click" onclick="check()"><span id="err"></span>
+<input type="button" value="click" onclick="check()">
+<br/>
+
+<span id="err"></span>
 
 <script>
 function check()
