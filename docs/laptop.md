@@ -14,12 +14,14 @@ The browser has a number of tabs open. You decide not to pry into their email, n
 
 <details><summary>Look at browser tab 2</summary>
 This seems to be a simple notes document. All it says is
-```
+<pre>
 ?I ma erehW
-```
+</pre>
 </details>
 
-<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">Look at browser tab 3</a>
+<details><summary>Look at browser tab 3</summary>
+<a href="https://cheatography.com/kstep/cheat-sheets/http-status-codes/">HTTP Status Codes Cheat Sheet by kstep</a>
+<details>
 
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
