@@ -1,4 +1,4 @@
-# Escape room: Translating between RSEs and Arts & Humanities Researchers
+# AHA: An Arts and Humanities Adventure!
 
 [![License](https://img.shields.io/github/license/jezcope/ah-software-escape-room)](LICENSE)
 
