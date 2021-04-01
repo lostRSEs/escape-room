@@ -2,7 +2,25 @@
 
 [![License](https://img.shields.io/github/license/jezcope/ah-software-escape-room)](LICENSE)
 
+## Welcome!
+
+Welcome to **:star:AHA: An Arts and Humanities Adventure!:star:**
+
+## What is AHA?
+
+AHA: An Arts and Humanities Adventure is an interactive game to help 'translate' concepts from computer science, for researchers in the arts and humanities.
+
+For **researchers in the arts and humanities**: this game aims to help you understand some of the ideas, concepts (and jargon) that your research software engineering colleagues have been using. 
+
+For **research software engineers**: this will help you explain the ideas and concepts that you use in your work to people who do not have a computer science background.
+
+We hope that playing this game will help RSEs and arts and humanities reserachers work together better and build research software that helps advance research in artss and humanities!
+
 This project began at a hackday run as part of [Software Sustainability Institute's Collaborations Workshop 2021](https://software.ac.uk/cw21).
+
+There is a [proof-of-concept web version of the game now online](https://jezcope.github.io/ah-software-escape-room)! You can [see the source for that website in the `gh-pages` branch on GitHub](https://github.com/jezcope/ah-software-escape-room/tree/gh-pages).
+
+******************************************************************************
 
 ## Problem
 
