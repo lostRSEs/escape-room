@@ -1,6 +1,6 @@
 # Laptop
 Open on the laptop, there is a web browser open with a number of tabs.
-![laptop](/assets/pexels-junior-teixeira-2047905.jpg "Laptop")
+![laptop](/ah-software-escape-room/assets/pexels-junior-teixeira-2047905.jpg "Laptop")
 
 ## Actions:
 <a href="https://github.com/lostRSEs/wherearemycolleagues">Look at browser tab 1</a>
