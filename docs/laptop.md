@@ -26,11 +26,7 @@ This seems to be a simple notes document. All it says is
 <details><summary>Look at Terminal</summary>
 You see there is a Terminal window open with the command:
 
-<pre><code>
-    $ curl https://rse-api.my-university.com/rse-api/list
-    ["RSE-002", "RSE-443", "321-ESR"]
-    $ 
-</code></pre>
+<img src="assets/terminal.png" alt="A terminal window"> 
 
 You think you can probably edit this URL to try and find out more info about where the RSEs are...
 </details>
