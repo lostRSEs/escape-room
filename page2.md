@@ -1,4 +1,4 @@
-# Page 2
+# Laptop
 Open on the laptop, there is a web browser open with a number of tabs.
 
 ## Actions:
