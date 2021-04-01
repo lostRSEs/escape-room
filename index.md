@@ -26,9 +26,11 @@ It's from last week. Someone has already filled in the crossword
 </details>
 <details><summary>Look at the bookshelf</summary>
 <p>
+
   - novel: it's old and worn. It looks like a fun read, but you don't have time for this at the moment.
   - "Design Patterns: Elements of Reusable Object Oriented Software". it looks like the cover was originally white, but as now turned gray. Most of the pages contain scribbled drawings.
   - "Web APIs for the 20th century": This looks interesting...
+
 </p>
 </details>
 
